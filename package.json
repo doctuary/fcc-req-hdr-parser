@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/doctuary/fcc-req-hdr-parser/issues"
   },
-  "homepage": "https://github.com/doctuary/fcc-req-hdr-parser#readme"
+  "homepage": "https://github.com/doctuary/fcc-req-hdr-parser#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
